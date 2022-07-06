@@ -8424,3 +8424,44 @@ lazySizesConfig.expFactor = 4;
     document.dispatchEvent(new CustomEvent("page:loaded"));
   });
 })();
+
+const itsperfectAPI = () => {
+  let uri =
+    "https://buurfashion.itsperfect.it/api/v2/items/&token=1a296-6afc7-935ad-baa50-5a289-15519";
+
+  let h = new Headers();
+  h.append("Accept", "application/json");
+  let encoded = window.btoa("buurfashion:f67425aaf231aff9c753");
+  let cred = "Basic buurfashion:f67425aaf231aff9c753";
+  let auth = "Basic " + encoded;
+  // h.append("Authorization", auth);
+  h.append(
+    "Authorization",
+    "Basic " + btoa("buurfashion:f67425aaf231aff9c753")
+  );
+  console.log(h);
+
+  let req = new Request(uri, {
+    method: "GET",
+    headers: h,
+    mode: "no-cors",
+    credentials: "include",
+  });
+
+  fetch(req)
+    .then((data) => {
+      if (!data.ok) {
+        throw Error(data.status);
+      }
+      console.log(data.json());
+      return data.json();
+    })
+    .then((update) => {
+      console.log(update);
+    })
+    .catch((e) => {
+      console.log(e);
+    });
+};
+
+itsperfectAPI();
