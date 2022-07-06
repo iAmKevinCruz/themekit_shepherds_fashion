@@ -1,0 +1,123 @@
+{
+  "sections": {
+    "main": {
+      "type": "pa-ma-chart",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "We Ship Worldwide"
+          }
+        },
+        "f076bb57-cfea-4eba-b329-c8e9bacfacc9": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Flat Rate US Shipping $10.00"
+          }
+        },
+        "001bc619-7e92-45aa-8a64-fa7eb66bc85e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Free Canadian Shipping over $50.00"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Style Personality Questionnaire",
+            "content": "",
+            "page": "style-personality-quiz"
+          }
+        },
+        "4b74b0b7-8bf0-4606-9eba-3702a9dd35c0": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping and Return Information",
+            "content": "",
+            "page": "returns-and-shipping"
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask us a product question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "sales_point",
+        "f076bb57-cfea-4eba-b329-c8e9bacfacc9",
+        "001bc619-7e92-45aa-8a64-fa7eb66bc85e",
+        "buy_buttons",
+        "description",
+        "tab",
+        "4b74b0b7-8bf0-4606-9eba-3702a9dd35c0",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

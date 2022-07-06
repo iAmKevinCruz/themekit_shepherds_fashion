@@ -1,0 +1,652 @@
+{
+  "sections": {
+    "promo-grid2": {
+      "type": "promo-grid",
+      "blocks": {
+        "4fd7dda8-bfcb-401e-a354-643933748a77": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "sHOP NOW",
+            "heading": "BUY ONE, GET ONE FREE!",
+            "textarea": "Select Love's Pure Light scarves",
+            "cta_text1": "Shop",
+            "cta_link1": "shopify:\/\/collections\/loves-pure-light",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/BOGO_Banner_750d7b01-3f0d-41ae-8d32-1083ed90d1fa.png",
+            "video_url": "",
+            "width": "50",
+            "height": 800,
+            "text_size": 120,
+            "text_align": "vertical-bottom horizontal-left",
+            "focal_point": "top",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "a187625a-dc98-4589-bedc-33f63e4fe32f": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "new arrival",
+            "heading": "sympli",
+            "textarea": "Find your must have items for Fall",
+            "cta_text1": "Shop",
+            "cta_link1": "shopify:\/\/collections\/sympli",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/SYMPLI_AW22_01873.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 800,
+            "text_size": 120,
+            "text_align": "vertical-bottom horizontal-right",
+            "focal_point": "80% 100%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "5c730b8b-ee6b-42d2-a982-6afdaa6d1128": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Beat the Heat - There's still time",
+            "heading": "Summer Dresses",
+            "textarea": "Find your perfect summer look like Elaine did",
+            "cta_text1": "Shop",
+            "cta_link1": "shopify:\/\/collections\/last-but-not-least",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/DSC01658.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 740,
+            "text_size": 135,
+            "text_align": "vertical-center horizontal-right",
+            "focal_point": "80% 0",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "06bdf474-5058-4cb6-af41-95e081758ca5": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "dID YOU CATCH Fashion Friday?",
+            "text": "Shop featured items",
+            "link": "shopify:\/\/collections\/new-fashion-friday",
+            "label": "Shop now",
+            "image": "shopify:\/\/shop_images\/20-min.jpg",
+            "color_tint": "#ecec23",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        },
+        "836476c3-56a4-4015-b604-05f48c89e6c7": {
+          "type": "sale_collection",
+          "disabled": true,
+          "settings": {
+            "sale_collection": "sale-1",
+            "top_text": "Now",
+            "middle_text": "50% off",
+            "bottom_text": "Shop our Winter Sale",
+            "width": "100",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "boxed": true,
+            "framed": true
+          }
+        },
+        "promo2-0": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Today_March_11.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 640,
+            "text_size": 155,
+            "text_align": "vertical-bottom horizontal-right",
+            "focal_point": "top",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "c07de5a7-ecd2-40ed-8895-3005db182173": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Pure Button Dress",
+            "heading": "Explore Comfort",
+            "textarea": "Limited Quantities - Featured on Wardrobe Wednesday",
+            "cta_text1": "shop",
+            "cta_link1": "shopify:\/\/collections\/wardrobe-wednesday",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/OOPS_3.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 540,
+            "text_size": 120,
+            "text_align": "vertical-bottom horizontal-right",
+            "focal_point": "top",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "96ac6a02-4437-4cd8-a0a6-ca9de4c2c6fe": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "New Markdowns",
+            "heading": "Now Up to 70% off",
+            "textarea": "",
+            "cta_text1": "Shop",
+            "cta_link1": "shopify:\/\/collections\/sale-1",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Cream_Illustrated_Easter_Card-65.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 580,
+            "text_size": 110,
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "4fd7dda8-bfcb-401e-a354-643933748a77",
+        "a187625a-dc98-4589-bedc-33f63e4fe32f",
+        "5c730b8b-ee6b-42d2-a982-6afdaa6d1128",
+        "06bdf474-5058-4cb6-af41-95e081758ca5",
+        "836476c3-56a4-4015-b604-05f48c89e6c7",
+        "promo2-0",
+        "c07de5a7-ecd2-40ed-8895-3005db182173",
+        "96ac6a02-4437-4cd8-a0a6-ca9de4c2c6fe"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Spring into a new look",
+            "title": "FASHION FRIDAY",
+            "title_size": 55,
+            "subheading": "New Episodes Weekly",
+            "link": "shopify:\/\/collections\/new-fashion-friday",
+            "link_text": "shop this",
+            "link_2": "shopify:\/\/collections",
+            "link_text_2": "Shop all",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/ash2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/ash2.jpg",
+            "overlay_opacity": 16,
+            "focal_point": "80% 0"
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Another good thing about hump day!",
+            "title": "Wardrobe Wednesday",
+            "title_size": 56,
+            "subheading": "Join us Weekly on Facebook and Instagram LIVE",
+            "link": "shopify:\/\/collections\/wardrobe-wednesday",
+            "link_text": "Shop this",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "Shop all",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/DSC01341_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DSC01341_2.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        },
+        "d7b0f44f-19e4-4d16-9f81-ba276c58c1f2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "For the Love of Fashion",
+            "title": "Follow  us on You Tube",
+            "title_size": 72,
+            "subheading": "Have you Heard - We have a video library",
+            "link": "",
+            "link_text": "View Past videos",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/12.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/12.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "e5c5dc4c-a554-424d-b216-f0ed0e76b9f2": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Get your coffee and join us",
+            "title": "saturday style",
+            "title_size": 57,
+            "subheading": "New Episodes Weekly",
+            "link": "shopify:\/\/collections\/saturday-style",
+            "link_text": "Shop this",
+            "link_2": "shopify:\/\/collections",
+            "link_text_2": "shop all",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/DSC01528_2ec2fcc1-e777-4f09-b5b0-005340f0c1c5.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DSC01528_2ec2fcc1-e777-4f09-b5b0-005340f0c1c5.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        },
+        "55afafbf-90fe-411f-9f13-0c6f61e0a277": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "As Seen On",
+            "title": "Social Media",
+            "title_size": 57,
+            "subheading": "Follow us on Facebook and Instagram",
+            "link": "shopify:\/\/collections\/as-seen-on-social-media",
+            "link_text": "shop this",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "shop all",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/DSC01447.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DSC01447.jpg",
+            "overlay_opacity": 8,
+            "focal_point": "top center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "slideshow-1",
+        "d7b0f44f-19e4-4d16-9f81-ba276c58c1f2",
+        "e5c5dc4c-a554-424d-b216-f0ed0e76b9f2",
+        "55afafbf-90fe-411f-9f13-0c6f61e0a277"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16424318205c0ea30d": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1642431820c66fb2cf-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Elaine is BACK!!!",
+            "title": "Saturday Style",
+            "title_size": 70,
+            "subheading": "See how to we style it up",
+            "link": "shopify:\/\/collections\/saturday-style",
+            "link_text": "Shop Video",
+            "link_2": "shopify:\/\/collections\/loves-pure-light",
+            "link_text_2": "Shop Loves Pure Light Scarves",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Cream_Illustrated_Easter_Card-49.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Cream_Illustrated_Easter_Card-49.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1642431820c66fb2cf-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Shepherd's Philosophy"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We believe every woman is beautiful in the body she has right now. We use principles in Body Shape and Style Personality to help you discover your style and build a beautiful lasting wardrobe that makes you feel like your best YOU!<\/p>"
+          }
+        },
+        "30b34140-6868-4ab8-b053-68927ba0eb8c": {
+          "type": "page",
+          "disabled": true,
+          "settings": {
+            "page_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "30b34140-6868-4ab8-b053-68927ba0eb8c"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promo-0": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "gift guide feature",
+            "heading": "wanted",
+            "textarea": "Designed in Canada -  explore our collection great gifts from Wanted in our Holiday Gift Guide.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "Shop Holiday",
+            "cta_link2": "shopify:\/\/collections\/holiday-gift-collection",
+            "video_url": "",
+            "width": "50",
+            "height": 800,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "center",
+            "color_accent": "#ffffff",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo-1": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Gift with purchase",
+            "textarea": "With any two pieces from Wanted Jewelry receive a free pair of small pearl stud earrings (value $32.00)",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/wanted",
+            "cta_text2": "",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo-0",
+        "promo-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "footwear",
+            "title": "FOOTWEAR",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops",
+            "title": "TOPS",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms-1",
+            "title": "BOTTOMS",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "skirts-shorts-skorts",
+            "title": "SKIRTS, SHORTS & SKORTS",
+            "focal_point": "center center"
+          }
+        },
+        "91d106b5-6cdb-4ad6-b398-109162b8a2c7": {
+          "type": "collection",
+          "settings": {
+            "collection": "scarves",
+            "title": "SCARVES",
+            "focal_point": "center center"
+          }
+        },
+        "a58a0509-4ef8-45dd-bb56-4ec017a57788": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses-and-jumpsuits",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "dfdef24b-2eed-4ead-a09c-4f422ceb52c5": {
+          "type": "collection",
+          "settings": {
+            "collection": "ponchos-wraps-kimonos",
+            "title": "TOPPERS",
+            "focal_point": "center center"
+          }
+        },
+        "e59eeace-7ed5-4173-8d68-1a6b73798eec": {
+          "type": "collection",
+          "settings": {
+            "collection": "hats",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "fe04ddaf-c625-4b19-b62a-2a9ea021d508": {
+          "type": "collection",
+          "settings": {
+            "collection": "purses",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "283230f9-53fc-4d99-bf99-e2561ea74647": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-denim-shop",
+            "title": "DENIM",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3",
+        "91d106b5-6cdb-4ad6-b398-109162b8a2c7",
+        "a58a0509-4ef8-45dd-bb56-4ec017a57788",
+        "dfdef24b-2eed-4ead-a09c-4f422ceb52c5",
+        "e59eeace-7ed5-4173-8d68-1a6b73798eec",
+        "fe04ddaf-c625-4b19-b62a-2a9ea021d508",
+        "283230f9-53fc-4d99-bf99-e2561ea74647"
+      ],
+      "settings": {
+        "title": "Shop by category",
+        "divider": false,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Shepherd's",
+        "title": "Holiday gift guide",
+        "text": "<p>We've got a collection of best selling items that we know will hit the mark and help you get your list for the holidays done. We also think you may like to put a few of these things on your own list. Enjoy!<\/p>",
+        "button_label": "Shop",
+        "button_link": "shopify:\/\/collections\/holiday-gift-collection",
+        "focal_point": "20% 100%",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "see what just came in",
+        "home_featured_products": "new-arrivals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LATEST BLOGS",
+        "blog": "blog",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "landscape",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Shepherd's Fashions",
+        "address": "<p><strong>Hours of Operation<\/strong><\/p><p>Monday to Saturday, 11am to 5pm. <\/p><p><\/p><p><\/p><p><strong>shepherdsfashions.com is open 24\/7!<\/strong><\/p><p><\/p><p>4 - 145 Trainyards Drive <br\/>Ottawa, ON K1G 3X8<\/p>",
+        "map_address": "145 - 4 Trainyards Drive",
+        "api_key": "AIzaSyA3KTaV-w-EdYQ3jsV7uhddIQv_Vd-pk0E",
+        "show_button": true,
+        "background_image_position": "top center"
+      }
+    },
+    "1640122554ddae6713": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "16401225547c1173f8-0": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "16401225547c1173f8-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16401225547c1173f8-0",
+        "16401225547c1173f8-1"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "1642431793ec250e00": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "promo-grid2",
+    "slideshow",
+    "16424318205c0ea30d",
+    "rich-text",
+    "promo-grid",
+    "featured-collections",
+    "background-image-text",
+    "featured-collection",
+    "blog-posts",
+    "map",
+    "1640122554ddae6713",
+    "1642431793ec250e00"
+  ]
+}

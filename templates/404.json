@@ -1,0 +1,41 @@
+{
+  "sections": {
+    "1642434357a5bc5222": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thumbnail_marlene_banner_2_square.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Thanks For Stopping in!",
+        "text": "<p>We are so sorry you cannot find what you are looking for! Please know we are receiving new items on a daily basis and we hope you find something you love soon! Thank you so much for coming to our site.<\/p>",
+        "button_label": "See what Just came in",
+        "button_link": "shopify:\/\/collections\/new-arrivals",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "main": {
+      "type": "main-404",
+      "settings": {}
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Arrivals",
+        "home_featured_products": "new-arrivals",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    }
+  },
+  "order": [
+    "1642434357a5bc5222",
+    "main",
+    "featured-collection"
+  ]
+}

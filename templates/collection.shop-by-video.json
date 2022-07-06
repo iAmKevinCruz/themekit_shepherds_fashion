@@ -1,0 +1,167 @@
+{
+  "sections": {
+    "1642448130d8137016": {
+      "type": "slideshow",
+      "blocks": {
+        "16424481305d133cc8-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/17-min.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "16424481305d133cc8-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16424481305d133cc8-0",
+        "16424481305d133cc8-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "disabled": true,
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "collection2": {
+          "type": "collection",
+          "settings": {
+            "collection": "wardrobe-wednesday",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection3": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-fashion-friday",
+            "title": "Fashion Friday",
+            "focal_point": "center center"
+          }
+        },
+        "collection4": {
+          "type": "collection",
+          "settings": {
+            "collection": "saturday-style",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection1": {
+          "type": "collection",
+          "settings": {
+            "collection": "as-seen-on-social-media",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "b8b06a32-3c71-456a-813c-4c61442940a5": {
+          "type": "collection",
+          "settings": {
+            "collection": "wear-it-your-way",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "3ca8e80f-1044-4a95-bf8d-568b9c4c06b7": {
+          "type": "collection",
+          "settings": {
+            "collection": "shepherds-pic",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection2",
+        "collection3",
+        "collection4",
+        "collection1",
+        "b8b06a32-3c71-456a-813c-4c61442940a5",
+        "3ca8e80f-1044-4a95-bf8d-568b9c4c06b7"
+      ],
+      "settings": {
+        "title": "Video Segments - Watch and Shop",
+        "divider": true,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "1642448130d8137016",
+    "main-collection",
+    "featured-collections"
+  ]
+}

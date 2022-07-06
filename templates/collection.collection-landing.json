@@ -1,0 +1,278 @@
+{
+  "sections": {
+    "1642452622c5872729": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "164245262222235415-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "164245262222235415-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "164245262222235415-0",
+        "164245262222235415-1"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": true,
+        "enable_sort": true
+      }
+    },
+    "16424531267f38473e": {
+      "type": "featured-collections",
+      "blocks": {
+        "1642453126cb6ec39a-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops-1",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1642453126cb6ec39a-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms-1",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1642453126cb6ec39a-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "coats-jackets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1642453126cb6ec39a-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "ponchos-wraps",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "c0cd1ee1-acd8-4a8e-a4a1-c6af0c0d9e1b": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses-and-jumpsuits",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "71bed7fc-a828-440d-a02a-460db4ddcfe0": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "footwear",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "d1499552-7575-4eee-8fed-a4e915f73976": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "purses",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "e8803d9b-19c6-4216-b99f-d7b62cf94a6a": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "necklaces",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "e6712869-561c-4322-9eab-470f53978fee": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "earrings",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "392600b6-f3cc-4ce9-a3b7-7fbd3ebaeb15": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "bracelets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "c566891a-56b0-4711-b113-89a16338579b": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "scarves",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "3e9bc57f-8471-4a7a-b19d-d555091f0657": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "denim-shop",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1642453126cb6ec39a-0",
+        "1642453126cb6ec39a-1",
+        "1642453126cb6ec39a-2",
+        "1642453126cb6ec39a-3",
+        "c0cd1ee1-acd8-4a8e-a4a1-c6af0c0d9e1b",
+        "71bed7fc-a828-440d-a02a-460db4ddcfe0",
+        "d1499552-7575-4eee-8fed-a4e915f73976",
+        "e8803d9b-19c6-4216-b99f-d7b62cf94a6a",
+        "e6712869-561c-4322-9eab-470f53978fee",
+        "392600b6-f3cc-4ce9-a3b7-7fbd3ebaeb15",
+        "c566891a-56b0-4711-b113-89a16338579b",
+        "3e9bc57f-8471-4a7a-b19d-d555091f0657"
+      ],
+      "settings": {
+        "title": "Shop all by Category",
+        "divider": false,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "simple": {
+          "type": "simple",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "text": "",
+            "width": "50",
+            "height": 300,
+            "color_tint": "#000000",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        },
+        "advanced": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "simple",
+        "advanced"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    }
+  },
+  "order": [
+    "1642452622c5872729",
+    "main-collection",
+    "16424531267f38473e",
+    "promo-grid2"
+  ]
+}

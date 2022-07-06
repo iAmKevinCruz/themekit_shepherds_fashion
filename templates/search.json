@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-search",
+      "settings": {}
+    },
+    "16424379747c8667a4": {
+      "type": "featured-collections",
+      "blocks": {
+        "1642437973c81776ab-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "wardrobe-wednesday",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1642437973c81776ab-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-fashion-friday",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1642437973c81776ab-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "saturday-style",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1642437973c81776ab-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "as-seen-on-social-media",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "ab29acbc-32a9-432f-81e5-411d340dbe14": {
+          "type": "collection",
+          "settings": {
+            "collection": "wear-it-your-way",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1642437973c81776ab-0",
+        "1642437973c81776ab-1",
+        "1642437973c81776ab-2",
+        "1642437973c81776ab-3",
+        "ab29acbc-32a9-432f-81e5-411d340dbe14"
+      ],
+      "settings": {
+        "title": "Are you looking for something Featured this week?",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16424379747c8667a4"
+  ]
+}
