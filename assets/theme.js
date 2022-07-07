@@ -8432,20 +8432,18 @@ const itsperfectAPI = () => {
   let h = new Headers();
   h.append("Accept", "application/json");
   let encoded = window.btoa("buurfashion:f67425aaf231aff9c753");
-  let cred = "Basic buurfashion:f67425aaf231aff9c753";
   let auth = "Basic " + encoded;
-  // h.append("Authorization", auth);
-  h.append(
-    "Authorization",
-    "Basic " + btoa("buurfashion:f67425aaf231aff9c753")
-  );
-  console.log(h);
+  h.set("Authorization", auth);
+  h.set("Access-Control-Allow-Origin", "https://www.shepherdsfashions.com");
+  // h.set("Access-Control-Allow-Headers", "Authorization");
+  // h.append("Access-Control-Allow-Methods", "GET");
+  // h.append("Access-Control-Allow-Methods", "OPTIONS");
 
   let req = new Request(uri, {
     method: "GET",
     headers: h,
-    mode: "no-cors",
-    credentials: "include",
+    // mode: "no-cors",
+    // credentials: "include",
   });
 
   fetch(req)
@@ -8465,3 +8463,17 @@ const itsperfectAPI = () => {
 };
 
 itsperfectAPI();
+
+function test() {
+  let username = "john";
+  let password = "doe";
+  let url = `https://httpbin.org/basic-auth/${username}/${password}`;
+  let authString = `${username}:${password}`;
+  let headers = new Headers();
+  headers.set("Authorization", "Basic " + btoa(authString));
+  fetch(url, { method: "GET", headers: headers }).then(function (response) {
+    console.log(response);
+    return response;
+  });
+}
+test();
